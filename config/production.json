@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://alex_hcj:1q2w3e@cluster0-nblue.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "alexa",
+    "baseUrl": "http://localhost:5000"
+}
